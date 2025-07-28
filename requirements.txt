@@ -1,0 +1,5 @@
+python-dotenv
+apify-client
+Flask
+apify-client
+google-generativeai
